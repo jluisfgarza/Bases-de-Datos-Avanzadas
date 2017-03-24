@@ -1,5 +1,5 @@
 # Bases-de-Datos-Avanzadas
-##Práctica Data Warehousing con NorthwindDB y Tableau
+## Práctica Data Warehousing con NorthwindDB y Tableau
 
 Una vez que has creado tu base de datos NorthwindDB y tu DWNorthwind deberás ontegrar
 en un documento lo siguiente.
