@@ -2,7 +2,7 @@
 ## Práctica Data Warehousing con NorthwindDB y Tableau
 
 ### Tableau
-![Tableau](<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=cRKTiYc07wU" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"  alt="https://i.ytimg.com/vi/cRKTiYc07wU/hqdefault.jpg?custom=true&w=246&h=138&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SIP8WAKPL4sar-rlNHWn5A3XzSk" width="240" height="180" border="10" /></a>)
+http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=cRKTiYc07wU
 
 Una vez que has creado tu base de datos NorthwindDB y tu DWNorthwind deberás ontegrar
 en un documento lo siguiente.
